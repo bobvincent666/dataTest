@@ -1,5 +1,4 @@
 {
-    "malldata": {
         "banner": [
                 "banner1",
                 "banner2",
@@ -211,6 +210,5 @@
 	            }
 	        }
     	]
-    }
 }
 
